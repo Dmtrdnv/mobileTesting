@@ -1,0 +1,6 @@
+# 📱 Mobile Testing:
+During the mobile testing activity in my work I use remote testing farms, desktop and online emulators to facilitate the final result in quality-time-savings. Testing activities for mobile testing:
+- <a href="https://docs.google.com/spreadsheets/d/1070oL4EqN4yFiQdyOWFoDC1PqFi3I1Xl/edit?usp=drive_link" title="checklist" alt="checklist"> Checklist </a> for app testing
+- <a href="https://drive.google.com/file/d/1ojbyYfqaeBbWmf_rL1rgK7RLnBpOERMs/view?usp=sharing" title="testcase" alt="testcase"> Test cases </a> for app testing
+- <a href="https://drive.google.com/file/d/1LkXB_EG8C2abqcq4L_4-lM3H-OWwD32T/view?usp=sharing" title="bugreport" alt="bugreport"> Bug-report </a> of the destination,<a href="https://drive.google.com/file/d/1-HdjEq5fPtENwo7V2JrOxZTl1a1am83i/view?usp=sharing" title="bugvideo" alt="bugvideo"> video </a> and <a href="https://drive.google.com/file/d/1zoSWRMYAj5i4xULaeNH0-WgbxdvwQhf8/view?usp=sharing" title="buglog" alt="buglog"> log </a> report
+- <a href="https://docs.google.com/spreadsheets/d/1W1v8WrGsGqjoXaV7wrsh_I4b39VsP50aYYly9xKOMDA/edit?usp=drive_link" title="testreport" alt="testreport"> Test summary report </a> as final conlusion
